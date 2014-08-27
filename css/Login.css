@@ -1,0 +1,38 @@
+body
+{
+    padding-left: 50px;
+}
+
+tr
+{
+    height: 30px;
+}
+
+#editDialog td:first-child
+{
+    width:140px;
+}
+
+#editDialog input
+{
+    width:210px;
+}
+
+#login
+{
+    text-align: center;
+}
+
+#categories
+{
+    text-align:right;
+    padding-bottom:20px;
+}
+
+#container
+{
+    width: 1200px;
+    overflow: hidden;
+}
+
+.button { float:left; display:inline-block; }

@@ -1,0 +1,10 @@
+RewriteEngine on
+RewriteRule ^Login UI/Login.php [NC]
+RewriteRule ^$ UI/index.php [NC]
+RewriteRule ^index.php$ UI/index.php [NC]
+RewriteRule ^Accounts.php$ UI/Accounts.php [NC]
+RewriteRule ^Content.php$ UI/Content.php [NC]
+RewriteRule ^Search.php$ UI/Search.php [NC]
+RewriteRule ^Admin.php$ UI/Admin.php [NC]
+RewriteRule ^Logout.php$ UI/Logout.php [NC]
+RewriteRule ^Export.php$ UI/Export.php [NC]
